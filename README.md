@@ -5,7 +5,8 @@ I am a Marketing Management Co-Op student at the Ted Rogers School of Management
 Also, I am a Corporate Relations Associate at Ted Rogers Marketing Association (TRMA).
 
 + I'm interested in ML and AI development - both the foundational knowledge and its applications to marketing.
-+ Currently, I'm building a marketing community and empowering girls in tech through events, case competitions, and hackathons!
++ Coming up, I'm seeking Fall 2026 Marketing Internships based in Toronto, NYC, and the Bay Area!
++ Beyond Toronto, I'm building a community and empowering girls in corporate and tech through events, case competitions, and hackathons!
 
   ### My Favourite Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
