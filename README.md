@@ -34,6 +34,7 @@ Within TRSM, I'm a **Corporate Relations Associate** at the Ted Rogers Marketing
 <a href="mailto:krystal.zhang@torontomu.ca" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram"/>
 </a>
+ 
  Feel free to reach out - I'm always looking for ways to grow and learn from others!
 
 
