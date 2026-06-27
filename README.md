@@ -18,9 +18,10 @@ I am originally from the US, **seeking Fall 2026 Marketing Internships** based i
 Within TRSM, I'm a **Corporate Relations Associate** at the Ted Rogers Marketing Association (TRMA).
 
 + I am interested in ML and AI development - both the foundational knowledge and its applications to marketing and the real world.
-+ Travelling enables me to fly to new heights and experiences! Catch me in Singapore at Nanyang Technological University (NTU) this winter!
   
 + Beyond Toronto, I'm building a community empowering girls in tech + corporate through events, case competitions, + hackathons!
+
+Catch me in Singapore at Nanyang Technological University (NTU) exchange in January 2027!
 
 ### My Favourite Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
