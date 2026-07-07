@@ -33,4 +33,11 @@ Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
  
  Feel free to reach out - I'm always looking for ways to grow and learn from others!
 
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=1spyral&color=brightgreen&style=flat-square)
+  
+  ⭐️ From [Krystal Zhang](https://github.com/krystalwzhang)
+  
+</div>
 
