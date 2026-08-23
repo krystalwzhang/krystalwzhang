@@ -1,37 +1,29 @@
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Hi, I'm Krystal.
-
-<a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:krystal.zhang@torontomu.ca" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
  
-A **Marketing** Co-Op student at the Ted Rogers School of Management (TRSM) at Toronto Metropolitan University.
+A **Marketing** Co-op student at Toronto Metropolitan University (TMU) and **Marketing Intern** at Revilo Technologies.
 <div align="left"> 
   
-I am originally from the US, **seeking Fall 2026 Marketing Internships** based in **Toronto, NYC, and the Bay Area**!
+I am originally from the US, **seeking Summer 2027 Marketing Internships**
 
-
-Within TRSM, I'm a **Corporate Relations Associate** at the Ted Rogers Marketing Association (TRMA).
-
-+ I am interested in ML and AI development - both the foundational knowledge and its applications to marketing and the real world.
-  
++ When it comes to ML and AI development, I love both the foundational knowledge and its applications to marketing and the real world.
++ I am marketing and building
+  - Partnerships as an Account Manager at Ted Rogers Marketing Association (TRMA).
+  - Communities at BoostHer 
+  - Social Enterprises at Enactus TMU
 + Beyond Toronto, I'm building a community empowering girls in tech + corporate through events, case competitions, + hackathons!
 
 Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
 
 ### My Favourite Tools I'm Learning!
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-  ### Let's Connect!
+  ### Let's Connect! <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <a href="mailto:krystal.zhang@torontomu.ca" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
  
- Feel free to reach out - I'm always looking for ways to grow and learn from others!
+ Feel free to reach out - I'm always looking for ways to grow and learn from others! <a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
+
 
 <div align="center">
   
