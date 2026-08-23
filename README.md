@@ -10,11 +10,11 @@ I am originally from the US, **seeking Summer 2027 Marketing Internships.**
 When it comes to ML and AI development, I love both the foundational knowledge and its applications to marketing and the real world.
 
 I am building
-  - Partnerships as an Account Manager at Ted Rogers Marketing Association (TRMA)
-  - Communities at BoostHer as Director of Social Media 
-  - Social Enterprises at Enactus TMU as a Marketing Associate
+  - **Partnerships** as an Account Manager at Ted Rogers Marketing Association (TRMA)
+  - **Communities** at BoostHer as **Director of Social Media** 
+  - **Social Enterprises** at Enactus TMU as a **Marketing Associate**
     
-+ Beyond Toronto, I'm a builder at heart, expanding new conenctions and taking on new projects!
+Beyond Toronto, I love bringing people together with events, taking on new projects, roles, and events!
 
 Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
 
