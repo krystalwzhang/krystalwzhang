@@ -5,14 +5,16 @@
 A **Marketing** Co-op student at Toronto Metropolitan University (TMU) and **Marketing Intern** at Revilo Technologies.
 <div align="left"> 
   
-I am originally from the US, **seeking Summer 2027 Marketing Internships**
+I am originally from the US, **seeking Summer 2027 Marketing Internships.**
 
-+ When it comes to ML and AI development, I love both the foundational knowledge and its applications to marketing and the real world.
-+ I am marketing and building
-  - Partnerships as an Account Manager at Ted Rogers Marketing Association (TRMA).
-  - Communities at BoostHer 
-  - Social Enterprises at Enactus TMU
-+ Beyond Toronto, I'm building a community empowering girls in tech + corporate through events, case competitions, + hackathons!
+When it comes to ML and AI development, I love both the foundational knowledge and its applications to marketing and the real world.
+
+I am building
+  - Partnerships as an Account Manager at Ted Rogers Marketing Association (TRMA)
+  - Communities at BoostHer as Director of Social Media 
+  - Social Enterprises at Enactus TMU as a Marketing Associate
+    
++ Beyond Toronto, I'm a builder at heart, expanding new conenctions and taking on new projects!
 
 Catch me in Singapore at Nanyang Technological University (NTU) in January 2027!
 
