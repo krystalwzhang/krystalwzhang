@@ -24,6 +24,7 @@ Beyond Toronto, I love building communities, taking on new projects and roles.
   ### Let's Connect! 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <a href="mailto:krystal.zhang@torontomu.ca" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
   <a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
+  <a href="https://devpost.com/iCodePanda" target="_blank"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
 
 
 <div align="center">
