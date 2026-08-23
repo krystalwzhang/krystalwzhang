@@ -21,9 +21,9 @@ Beyond Toronto, I love building communities, taking on new projects and roles.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-  ### Let's Connect! <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <a href="mailto:krystal.zhang@torontomu.ca" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
- 
- Feel free to reach out - I'm always looking for ways to grow and learn from others! <a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
+  ### Let's Connect! 
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> <a href="mailto:krystal.zhang@torontomu.ca" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="https://www.linkedin.com/in/krystalwzhang/" target="_blank">
 
 
 <div align="center">
